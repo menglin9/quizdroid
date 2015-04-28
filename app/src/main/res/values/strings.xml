@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">quiz</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_math">Math</string>
+    <string name="title_activity_math__q1">Math_Q1</string>
+    <string name="btn_display">Submit</string>
+    <string name="next">Next</string>
+    <string name="title_activity_main__q1_answer">Math_Q1Answer</string>
+    <string name="title_activity_main__q2">Math_Q2</string>
+    <string name="title_activity_math__q2_answer">Math_Q2Answer</string>
+    <string name="title_activity_math__q3">Math_Q3</string>
+    <string name="title_activity_math__q3_answer">Math_Q3Answer</string>
+    <string name="title_activity_math__q4">Math_Q4</string>
+    <string name="title_activity_math__q4_answer">Math_Q4Answer</string>
+    <string name="title_activity_math__q5">Math_Q5</string>
+    <string name="title_activity_math__q5_answer">Math_Q5Answer</string>
+    <string name="finish">Finish</string>
+    <string name="title_activity_physics">Physics</string>
+    <string name="title_activity_physics__q1">Physics_Q1</string>
+    <string name="title_activity_physics__q1_answer">Physics_Q1Answer</string>
+    <string name="title_activity_physics__q2">Physics_Q2</string>
+    <string name="title_activity_physics__q2_answer">Physics_Q2Answer</string>
+    <string name="title_activity_physics__q3">Physics_Q3</string>
+    <string name="title_activity_physics__q3_answer">Physics_Q3Answer</string>
+    <string name="title_activity_physics__q4">Physics_Q4</string>
+    <string name="title_activity_physics__q4_answer">Physics_Q4Answer</string>
+    <string name="title_activity_physics__q5">Physics_Q5</string>
+    <string name="title_activity_physics__q5_answer">Physics_Q5Answer</string>
+    <string name="title_activity_unix__q1">Unix_Q1</string>
+    <string name="title_activity_unix">Unix</string>
+    <string name="title_activity_unix__q1_answer">Unix_Q1Answer</string>
+    <string name="title_activity_unix__q2">Unix_Q2</string>
+    <string name="title_activity_unix__q2_answer">Unix_Q2Answer</string>
+    <string name="title_activity_unix__q3">Unix_Q3</string>
+    <string name="title_activity_unix__q4_answer">Unix_Q4Answer</string>
+    <string name="title_activity_unix__q3_answer">Unix_Q3Answer</string>
+    <string name="title_activity_unix__q4">Unix_Q4</string>
+    <string name="title_activity_unix__q5">Unix_Q5</string>
+    <string name="title_activity_unix__q5_answer">Unix_Q5Answer</string>
+</resources>

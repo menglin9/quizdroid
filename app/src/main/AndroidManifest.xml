@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="lifecounter.menglin9.washington.edu.quiz" >
+
+    <application
+        android:name=".Data"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Math"
+            android:label="@string/title_activity_math" >
+        </activity>
+        <activity
+            android:name=".Math_Q1"
+            android:label="@string/title_activity_math__q1" >
+        </activity>
+        <activity
+            android:name=".Math_Q1Answer"
+            android:label="@string/title_activity_main__q1_answer" >
+        </activity>
+        <activity
+            android:name=".Math_Q2"
+            android:label="@string/title_activity_main__q2" >
+        </activity>
+        <activity
+            android:name=".Math_Q2Answer"
+            android:label="@string/title_activity_math__q2_answer" >
+        </activity>
+        <activity
+            android:name=".Math_Q3"
+            android:label="@string/title_activity_math__q3" >
+        </activity>
+        <activity
+            android:name=".Math_Q3Answer"
+            android:label="@string/title_activity_math__q3_answer" >
+        </activity>
+        <activity
+            android:name=".Math_Q4"
+            android:label="@string/title_activity_math__q4" >
+        </activity>
+        <activity
+            android:name=".Math_Q4Answer"
+            android:label="@string/title_activity_math__q4_answer" >
+        </activity>
+        <activity
+            android:name=".Math_Q5"
+            android:label="@string/title_activity_math__q5" >
+        </activity>
+        <activity
+            android:name=".Math_Q5Answer"
+            android:label="@string/title_activity_math__q5_answer" >
+        </activity>
+        <activity
+            android:name=".Physics"
+            android:label="@string/title_activity_physics" >
+        </activity>
+        <activity
+            android:name=".Physics_Q1"
+            android:label="@string/title_activity_physics__q1" >
+        </activity>
+        <activity
+            android:name=".Physics_Q1Answer"
+            android:label="@string/title_activity_physics__q1_answer" >
+        </activity>
+        <activity
+            android:name=".Physics_Q2"
+            android:label="@string/title_activity_physics__q2" >
+        </activity>
+        <activity
+            android:name=".Physics_Q2Answer"
+            android:label="@string/title_activity_physics__q2_answer" >
+        </activity>
+        <activity
+            android:name=".Physics_Q3"
+            android:label="@string/title_activity_physics__q3" >
+        </activity>
+        <activity
+            android:name=".Physics_Q3Answer"
+            android:label="@string/title_activity_physics__q3_answer" >
+        </activity>
+        <activity
+            android:name=".Physics_Q4"
+            android:label="@string/title_activity_physics__q4" >
+        </activity>
+        <activity
+            android:name=".Physics_Q4Answer"
+            android:label="@string/title_activity_physics__q4_answer" >
+        </activity>
+        <activity
+            android:name=".Physics_Q5"
+            android:label="@string/title_activity_physics__q5" >
+        </activity>
+        <activity
+            android:name=".Physics_Q5Answer"
+            android:label="@string/title_activity_physics__q5_answer" >
+        </activity>
+        <activity
+            android:name=".Unix_Q1"
+            android:label="@string/title_activity_unix__q1" >
+        </activity>
+        <activity
+            android:name=".Unix"
+            android:label="@string/title_activity_unix" >
+        </activity>
+        <activity
+            android:name=".Unix_Q1Answer"
+            android:label="@string/title_activity_unix__q1_answer" >
+        </activity>
+        <activity
+            android:name=".Unix_Q2"
+            android:label="@string/title_activity_unix__q2" >
+        </activity>
+        <activity
+            android:name=".Unix_Q2Answer"
+            android:label="@string/title_activity_unix__q2_answer" >
+        </activity>
+        <activity
+            android:name=".Unix_Q3"
+            android:label="@string/title_activity_unix__q3" >
+        </activity>
+        <activity
+            android:name=".Unix_Q4Answer"
+            android:label="@string/title_activity_unix__q4_answer" >
+        </activity>
+        <activity
+            android:name=".Unix_Q3Answer"
+            android:label="@string/title_activity_unix__q3_answer" >
+        </activity>
+        <activity
+            android:name=".Unix_Q4"
+            android:label="@string/title_activity_unix__q4" >
+        </activity>
+        <activity
+            android:name=".Unix_Q5"
+            android:label="@string/title_activity_unix__q5" >
+        </activity>
+        <activity
+            android:name=".Unix_Q5Answer"
+            android:label="@string/title_activity_unix__q5_answer" >
+        </activity>
+    </application>
+
+</manifest>
